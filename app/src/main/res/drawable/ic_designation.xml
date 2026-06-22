@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="24dp"
+android:height="24dp"
+android:viewportWidth="24"
+android:viewportHeight="24">
+
+<!-- Location Pin -->
+<path
+android:fillColor="#3F51B5"
+android:pathData="M54,10C38.5,10 26,22.5 26,38c0,20 28,50 28,50s28,-30 28,-50C82,22.5 69.5,10 54,10z"/>
+
+<!-- Head -->
+<path
+android:fillColor="#FFFFFF"
+android:pathData="M54,26m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+
+<!-- Body -->
+<path
+android:fillColor="#FFFFFF"
+android:pathData="M42,48c0,-6 5,-10 12,-10s12,4 12,10v6H42z"/>
+
+</vector>

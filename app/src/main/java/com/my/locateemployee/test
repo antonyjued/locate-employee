@@ -1,0 +1,10 @@
+while ((line = reader.readLine()) != null) {
+
+String[] data = line.split(",");
+
+// FIRST STRING ONLY
+csvEmpId.add(data[0]);
+
+}
+
+CSVHelper.reader.close();
